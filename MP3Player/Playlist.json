@@ -1,0 +1,72 @@
+[
+ {
+ "ID": 1,
+ "Title": "Be The One",
+ "Artist": "Eli Brown",
+ "Genre": "Techno",
+ "Duration": "2:49"
+ },
+ {
+ "ID" : 2,
+ "Title": "Human",
+ "Artist": "John Summit",
+ "Genre": "House",
+ "Duration": "3:39"
+ },
+ {
+ "ID" : 3,
+ "Title": "Infinite",
+ "Artist": "GRiZ",
+ "Genre": "Dubstep",
+ "Duration": "3:39"
+ },
+ {
+ "ID" : 4,
+ "Title": "Innerbloom",
+ "Artist": "Rufus Du Sol",
+ "Genre": "Techno",
+ "Duration": "9:38"
+ },
+ {
+ "ID" : 5,
+ "Title": "Make It Happen",
+ "Artist": "Rufus Du Sol",
+ "Genre": "House",
+ "Duration": "5:12"
+ },
+ {
+ "ID" : 6,
+ "Title": "Miracle Maker",
+ "Artist": "Dom Dolla",
+ "Genre": "House", 
+ "Duration": "3:08"
+ },
+ {
+ "ID" : 7,
+ "Title": "One Time",
+ "Artist": "Kyle Walker",
+ "Genre": "Techno",
+ "Duration": "3:36"
+ },
+ {
+ "ID" : 8,
+ "Title": "Voodoo",
+ "Artist": "Gorgon City",
+ "Genre": "House",
+ "Duration": "3:33"
+ },
+ {
+ "ID" : 9,
+ "Title": "We Are Mirage",
+ "Artist": "Eric Prydz",
+ "Genre": "Techno", 
+ "Duration": "6:30"
+ },
+ {
+ "ID" : 10,
+ "Title": "Where You Are",
+ "Artist": "John Summit",
+ "Genre": "House",
+ "Duration": "3:56"
+ }
+]
